@@ -14,7 +14,7 @@ if (income >= 10000 && income <= 50000) {
 }
 
  if (income >= 100001 && income <= 200000) {
-    console.log(`The base income is $${income}. Tax will be $${income_tax * 20} while the cost with counted tax percent (20%) is $${income - income_tax* 20}`) 
+    console.log(`The base income is $${income}. Tax will be $${income_tax * 20} while the cost with counted tax percent (20%) is $${income - income_tax * 20}`) 
 }
 
  if (income > 200000) {
