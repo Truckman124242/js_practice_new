@@ -1,5 +1,5 @@
 let base_price = 265700
-let car_year = 2015
+let car_year = 2017
 let car_run = 60000
 let has_climate_control = true
 let safe_pack = false
