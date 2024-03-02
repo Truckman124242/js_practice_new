@@ -1,4 +1,4 @@
-let income = 220000
+let income = 225000
 let income_tax = income/100
 
 if (income < 10000) {
