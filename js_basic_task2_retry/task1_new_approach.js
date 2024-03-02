@@ -1,4 +1,4 @@
-let income = 353.35
+let income = 70000
 let tax = 0
 
 if (income < 10000) {
@@ -14,11 +14,11 @@ if (income >= 10000 && income <= 50000) {
 }
 
  if (income >= 100001 && income <= 200000) {
-    tax =  0.20
+    tax = 0.20
 }
 
  if (income > 200000) {
-    tax =  0.25
+    tax = 0.25
 }
 
 let tax_part = income * tax
