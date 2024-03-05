@@ -1,4 +1,4 @@
-let income = 353.35
+let income = 353674
 
 if (income < 10000) {
     console.log(`The base income is $${income}. Tax will be $${(income * 0.05)} while the income with counted tax percent (5%) is $${income - income * 0.05}`)
