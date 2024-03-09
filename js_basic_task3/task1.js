@@ -1,4 +1,4 @@
-let basicString = "     TESTING, car, BUS, try, door    ";
+let basicString = "  twetet   TESTING, car, BUS, try, door    ";
 let char_to_replace = '*';
 let changedString = ''
 

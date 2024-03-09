@@ -1,4 +1,4 @@
-let basicString = "Trying The Test";
+let basicString = "Trying The Testtet";
 let char_to_change = 't';
 let char_to_replace = '#'
 let changedString = '';
