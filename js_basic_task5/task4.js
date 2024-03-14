@@ -14,11 +14,11 @@ else if (average >= 90 && average <= 100) {
     return "Very good performance"
 } 
 else {
-    return "Invalid input, please make sure the correct grades were entered";
+    return "Invalid input, please make sure the correct grades were entered"
 }
 }
 
-// console.log(averagePerformanceCalculation(85, 70, 66));
+// console.log(averagePerformanceCalculation(85, 70, 66))
 
 // Or 
 mathScore = 99
