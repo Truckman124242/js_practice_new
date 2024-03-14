@@ -20,7 +20,7 @@ else {
 
 // console.log(averagePerformanceCalculation(85, 70, 66))
 
-// Or 
+// // Or 
 mathScore = 99
 litScore = 90
 physicsScore = 93

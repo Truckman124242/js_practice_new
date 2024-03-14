@@ -1,4 +1,4 @@
 function stringLength (string) {
-    console.log(string.length)
+    return string.length
 }
-stringLength("The test string.")
+console.log(stringLength("The test string."))
