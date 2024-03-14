@@ -19,3 +19,10 @@ else {
 }
 
 console.log(averagePerformanceCalculation(85, 70, 66));
+
+// Or 
+// mathScore = 30;
+// litScore = 62;
+// physicsScore = 53;
+// const perfomance = averagePerformanceCalculation(mathScore, litScore, physicsScore);
+// console.log(perfomance)
