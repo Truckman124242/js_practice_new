@@ -21,7 +21,7 @@ function calculate(num1, num2, operator) {
 
   // Перевірка на кількість аргументів
   if (arguments.length !== 3) {
-    throw new Error("Кількість аргументів має бути рівна 3");
+    throw new Error("Кількість аргументів не повинна бути більше 3-х");
   }
 
   let result;
