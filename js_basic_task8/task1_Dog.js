@@ -15,7 +15,7 @@ class Dog extends Animal {
   roll() {
     console.log(`${this.name} is rolling.`);
   }
-} //об'єкт до класу Dog
+} //об'єкти до класу Dog
 const myDog = new Dog("Jacob", "grey", "dog", "Huskie", 6, "male");
 const neighbourDog = new Dog("Dewey", "red", "dog", "dachshund", 3, "male");
 
