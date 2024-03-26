@@ -6,14 +6,11 @@ export default class Animal {
   }
 
   sayHello() {
-    return console.log(`${this.name} goes "Woof"`);
+    return console.log(
+      `This is ${this.name}, it's a ${this.color} colored ${this.type}.`
+    );
   }
   run() {
     return `${this.name} runs`;
   }
 }
-
-const myAnimal = new Animal("Robert", "brown", "dog");
-
-myAnimal.sayHello();
-myAnimal.run();
