@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  },
+  "dependencies": {
+    "chai": "^5.1.0"
+  },
+  "type": "module",
+  "name": "js_basic_task9",
+  "version": "1.0.0",
+  "main": "task1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
